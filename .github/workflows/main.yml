@@ -12,8 +12,8 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: projetnf083
-        password: iCwpRiCu7(Pxzz((Ent*
+        username: bencnam
+        password: JVM#Il5A1Guu@b33KpD1
         server-dir : public_html/
         exclude: |
           **/.git*
